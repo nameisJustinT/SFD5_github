@@ -1,3 +1,4 @@
 this is the text for t1
 this is the second line from git bash
 notes from branch user1
+this line is from user 1 branch
